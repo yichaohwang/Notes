@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "928898bda995ef9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e8e36e946cadc69",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "研究生考试/高等数学/书籍/2023武忠祥高等数学辅导讲义.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e79661b9a96494cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e1668d00d5e54b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "047cc2be908b83f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "30129401123ef51d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2626667eecc5313e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b927b07c8dd9c79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c8b88c4bf01466",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "研究生考试/高等数学/书籍/2023武忠祥高等数学辅导讲义.pdf",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0e8e36e946cadc69",
+  "lastOpenFiles": [
+    "研究生考试/高等数学/书籍/2023武忠祥高等数学辅导讲义.pdf",
+    "Markdown/扩展语法/3-数学公式.md",
+    "Markdown/扩展语法/GFM语法.md",
+    "Markdown/扩展语法/MPE语法.md",
+    "研究生考试/高等数学/01函数、极限、连续.md"
+  ]
+}
