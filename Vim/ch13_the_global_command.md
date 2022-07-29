@@ -366,7 +366,7 @@ console.log("three: ", three);
 
 结果：
 
-```
+```visual basic
 const one = 1;
 console.log("one: ", one);
 
